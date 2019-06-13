@@ -10,6 +10,16 @@ Projeto criado para consumir a API-Weather do Yahoo, através de um servidor exp
 - React-Redux
 - Express
 - Animate CSS
+- React Router v4
+
+## Instalação:
+
+```
+Git clone [aqui](https://github.com/tambal/desafio-frontend)
+cd desafio-frontend
+cd client
+npm install
+```
 
 ## Heroku :
 
